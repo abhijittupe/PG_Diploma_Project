@@ -1,0 +1,5 @@
+1.Step one remove --openssl-legacy-provider 
+from pacakage.jason 
+2.then install npm and then start
+3.send post request by postman 
+and the value of isadmin is 1 
